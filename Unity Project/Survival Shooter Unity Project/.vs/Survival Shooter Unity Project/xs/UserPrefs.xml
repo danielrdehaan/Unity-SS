@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{CF732F51-C7CE-0A01-9A7E-1CF02707DDF8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs">
+    <Files>
+      <File FileName="Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs" Line="11" Column="50" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs" Line="18" Column="91" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Managers/PauseManager.cs" Line="11" Column="1" />
+      <File FileName="Assets/_CompletedAssets/MobileInput/Scripts/ButtonOnHover.cs" Line="23" Column="10" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs" Line="66" Column="1" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Enemy/EnemyAttack.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Survival Shooter Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_CompletedAssets" expanded="True">
+                <Node name="MobileInput" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Scripts" expanded="True">
+                  <Node name="Enemy" expanded="True">
+                    <Node name="EnemyHealth.cs" selected="True" />
+                  </Node>
+                  <Node name="Managers" expanded="True" />
+                  <Node name="Player" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f67527cb-e473-4ee6-beed-e5eba66c6395" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
